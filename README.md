@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jared0215
-- 👀 I’m interested in ... Programming and Video Games
-- 🌱 I’m currently learning ... Python3
-- 📫 How to reach me ... jared0215@hotmail.com
+- 👀 This script I stayed up till 3 am writing will allow a user to input the goal differentials of multiple hockey games and average them. It will also tell you how many wins the team has and the total goals they scored in all their wins.
+- 
 
 <!---
 jared0215/jared0215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
